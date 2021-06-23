@@ -1,0 +1,92 @@
+[
+  {
+    "id": "breakfast",
+    "title": "Breakfast",
+    "items": [
+      {
+        "id": "granola",
+        "title": "Granola",
+        "price": 109,
+        "image": "granola.jpg",
+        "isVeggie": true
+      },
+      {
+        "id": "pancakes_sweet",
+        "title": "Pancakes (sweet)",
+        "price": 99,
+        "image": "pancakes_sweet.jpg",
+        "isVeggie": false
+      },
+      {
+        "id": "pancakes_salty",
+        "title": "Pancakes (salty)",
+        "price": 99,
+        "image": "pancakes_salty.jpg",
+        "isVeggie": false
+      },
+      {
+        "id": "buckwheat_with_eggs",
+        "title": "Buckwheat With Eggs",
+        "price": 119,
+        "image": "buckwheat_with_eggs.jpg",
+        "isVeggie": false
+      },
+      {
+        "id": "porridge",
+        "title": "Porridge",
+        "price": 79,
+        "image": "porridge.jpg",
+        "isVeggie": true
+      }
+    ]
+  },
+  {
+    "id": "bowls",
+    "title": "Bowls",
+    "items": [
+      {
+        "id": "buckwheat_bowl",
+        "title": "Buckwheat",
+        "price": 129,
+        "image": "buckwheat_bowl.jpg",
+        "isVeggie": true
+      },
+      {
+        "id": "egg_and_bacon",
+        "title": "Egg & Bacon",
+        "price": 109,
+        "image": "egg_and_bacon.jpg",
+        "isVeggie": false
+      },
+      {
+        "id": "avocado_bowl",
+        "title": "Avocado",
+        "price": 119,
+        "image": "avocado_bowl.jpg",
+        "isVeggie": true
+      },
+      {
+        "id": "rice_and_beef",
+        "title": "Rice & Beef",
+        "price": 119,
+        "image": "rice_and_beef_bowl.jpg",
+        "isVeggie": false
+      }
+    ]
+  },
+  {
+    "id": "soups",
+    "title": "Soups",
+    "items": []
+  },
+  {
+    "id": "drinks",
+    "title": "Drinks",
+    "items": []
+  },
+  {
+    "id": "alcohol",
+    "title": "Alcohol",
+    "items": []
+  }
+]
